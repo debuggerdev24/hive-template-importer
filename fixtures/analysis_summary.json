@@ -1,0 +1,371 @@
+{
+  "1_workbookFormat": "OpenXML Spreadsheet (XLSX format packaged as PKZip container with .xls filename extension)",
+  "2_sheetNames": [
+    "Sheet1"
+  ],
+  "3_rowCount": 393,
+  "4_columnCount": 42,
+  "5_exactColumnNames": [
+    "Section Name",
+    "Item Name",
+    "Comment Name",
+    "Comment Text",
+    "Comment Type (info, limit, defect)",
+    "Category (-1: Low, 0: Med, 1: High)",
+    "Multiple Choice Options (comma-separated)",
+    "Unit Type Options (numeric answers only, comma-separated)",
+    "Recommendation (from list)",
+    "Order (w/i item)",
+    "Answer Type (boolean, checkbox, date, number, range, text)",
+    "Default Value",
+    "Default Value 2 (for \"range\" types)",
+    "Default Unit Type (for \"number\" and \"range\" types)",
+    "Default Location",
+    "Default Estimate Min",
+    "Default Estimate Max",
+    "Locked",
+    "Simple Format",
+    "Disable Photos",
+    "Uses",
+    "Default Photo 1",
+    "Default Photo 1 Caption",
+    "Default Photo 2",
+    "Default Photo 2 Caption",
+    "Default Photo 3",
+    "Default Photo 3 Caption",
+    "Default Photo 4",
+    "Default Photo 4 Caption",
+    "Default Photo 5",
+    "Default Photo 5 Caption",
+    "Default Photo 6",
+    "Default Photo 6 Caption",
+    "Default Photo 7",
+    "Default Photo 7 Caption",
+    "Default Photo 8",
+    "Default Photo 8 Caption",
+    "Default Photo 9",
+    "Default Photo 9 Caption",
+    "Default Photo 10",
+    "Default Photo 10 Caption",
+    "Last Modified"
+  ],
+  "6_alwaysPopulatedColumns": [
+    "Section Name",
+    "Item Name",
+    "Comment Type (info, limit, defect)",
+    "Order (w/i item)",
+    "Answer Type (boolean, checkbox, date, number, range, text)",
+    "Default Estimate Min",
+    "Default Estimate Max",
+    "Uses",
+    "Last Modified"
+  ],
+  "7_optionalColumns": [
+    {
+      "col": "Comment Name",
+      "populatedCount": 381,
+      "total": 392
+    },
+    {
+      "col": "Comment Text",
+      "populatedCount": 91,
+      "total": 392
+    },
+    {
+      "col": "Category (-1: Low, 0: Med, 1: High)",
+      "populatedCount": 302,
+      "total": 392
+    },
+    {
+      "col": "Multiple Choice Options (comma-separated)",
+      "populatedCount": 72,
+      "total": 392
+    },
+    {
+      "col": "Unit Type Options (numeric answers only, comma-separated)",
+      "populatedCount": 3,
+      "total": 392
+    },
+    {
+      "col": "Recommendation (from list)",
+      "populatedCount": 4,
+      "total": 392
+    },
+    {
+      "col": "Default Value",
+      "populatedCount": 1,
+      "total": 392
+    },
+    {
+      "col": "Default Value 2 (for \"range\" types)",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Unit Type (for \"number\" and \"range\" types)",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Location",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Locked",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Simple Format",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Disable Photos",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 1",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 1 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 2",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 2 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 3",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 3 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 4",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 4 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 5",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 5 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 6",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 6 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 7",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 7 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 8",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 8 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 9",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 9 Caption",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 10",
+      "populatedCount": 0,
+      "total": 392
+    },
+    {
+      "col": "Default Photo 10 Caption",
+      "populatedCount": 0,
+      "total": 392
+    }
+  ],
+  "8_sectionsCount": 13,
+  "9_itemsCount": 69,
+  "10_dataRowsCount": 392,
+  "11_answerTypes": [],
+  "12_multipleChoiceSamples": [],
+  "13_htmlSamples": [],
+  "14_malformedRows": [],
+  "15_colLetterToName": {
+    "A": "Section Name",
+    "B": "Item Name",
+    "C": "Comment Name",
+    "D": "Comment Text",
+    "E": "Comment Type (info, limit, defect)",
+    "F": "Category (-1: Low, 0: Med, 1: High)",
+    "G": "Multiple Choice Options (comma-separated)",
+    "H": "Unit Type Options (numeric answers only, comma-separated)",
+    "I": "Recommendation (from list)",
+    "J": "Order (w/i item)",
+    "K": "Answer Type (boolean, checkbox, date, number, range, text)",
+    "L": "Default Value",
+    "M": "Default Value 2 (for \"range\" types)",
+    "N": "Default Unit Type (for \"number\" and \"range\" types)",
+    "O": "Default Location",
+    "P": "Default Estimate Min",
+    "Q": "Default Estimate Max",
+    "R": "Locked",
+    "S": "Simple Format",
+    "T": "Disable Photos",
+    "U": "Uses",
+    "V": "Default Photo 1",
+    "W": "Default Photo 1 Caption",
+    "X": "Default Photo 2",
+    "Y": "Default Photo 2 Caption",
+    "Z": "Default Photo 3",
+    "AA": "Default Photo 3 Caption",
+    "AB": "Default Photo 4",
+    "AC": "Default Photo 4 Caption",
+    "AD": "Default Photo 5",
+    "AE": "Default Photo 5 Caption",
+    "AF": "Default Photo 6",
+    "AG": "Default Photo 6 Caption",
+    "AH": "Default Photo 7",
+    "AI": "Default Photo 7 Caption",
+    "AJ": "Default Photo 8",
+    "AK": "Default Photo 8 Caption",
+    "AL": "Default Photo 9",
+    "AM": "Default Photo 9 Caption",
+    "AN": "Default Photo 10",
+    "AO": "Default Photo 10 Caption",
+    "AP": "Last Modified"
+  },
+  "16_firstTwoDataRows": [
+    {
+      "Section Name": "Inspection Details",
+      "Item Name": "General",
+      "Comment Name": "In Attendance",
+      "Comment Text": "",
+      "Comment Type (info, limit, defect)": "info",
+      "Category (-1: Low, 0: Med, 1: High)": "",
+      "Multiple Choice Options (comma-separated)": "Home Owner, Client, Client's Agent, Listing Agent",
+      "Unit Type Options (numeric answers only, comma-separated)": "",
+      "Recommendation (from list)": "",
+      "Order (w/i item)": "0",
+      "Answer Type (boolean, checkbox, date, number, range, text)": "checkbox",
+      "Default Value": "",
+      "Default Value 2 (for \"range\" types)": "",
+      "Default Unit Type (for \"number\" and \"range\" types)": "",
+      "Default Location": "",
+      "Default Estimate Min": "10",
+      "Default Estimate Max": "1000",
+      "Locked": "",
+      "Simple Format": "",
+      "Disable Photos": "",
+      "Uses": "0",
+      "Default Photo 1": "",
+      "Default Photo 1 Caption": "",
+      "Default Photo 2": "",
+      "Default Photo 2 Caption": "",
+      "Default Photo 3": "",
+      "Default Photo 3 Caption": "",
+      "Default Photo 4": "",
+      "Default Photo 4 Caption": "",
+      "Default Photo 5": "",
+      "Default Photo 5 Caption": "",
+      "Default Photo 6": "",
+      "Default Photo 6 Caption": "",
+      "Default Photo 7": "",
+      "Default Photo 7 Caption": "",
+      "Default Photo 8": "",
+      "Default Photo 8 Caption": "",
+      "Default Photo 9": "",
+      "Default Photo 9 Caption": "",
+      "Default Photo 10": "",
+      "Default Photo 10 Caption": "",
+      "Last Modified": "09/14/2026 01:23:16"
+    },
+    {
+      "Section Name": "Inspection Details",
+      "Item Name": "General",
+      "Comment Name": "Occupancy",
+      "Comment Text": "",
+      "Comment Type (info, limit, defect)": "info",
+      "Category (-1: Low, 0: Med, 1: High)": "",
+      "Multiple Choice Options (comma-separated)": "Furnished, Utilities Off, Occupied, Vacant",
+      "Unit Type Options (numeric answers only, comma-separated)": "",
+      "Recommendation (from list)": "",
+      "Order (w/i item)": "1",
+      "Answer Type (boolean, checkbox, date, number, range, text)": "checkbox",
+      "Default Value": "",
+      "Default Value 2 (for \"range\" types)": "",
+      "Default Unit Type (for \"number\" and \"range\" types)": "",
+      "Default Location": "",
+      "Default Estimate Min": "10",
+      "Default Estimate Max": "1000",
+      "Locked": "",
+      "Simple Format": "",
+      "Disable Photos": "",
+      "Uses": "0",
+      "Default Photo 1": "",
+      "Default Photo 1 Caption": "",
+      "Default Photo 2": "",
+      "Default Photo 2 Caption": "",
+      "Default Photo 3": "",
+      "Default Photo 3 Caption": "",
+      "Default Photo 4": "",
+      "Default Photo 4 Caption": "",
+      "Default Photo 5": "",
+      "Default Photo 5 Caption": "",
+      "Default Photo 6": "",
+      "Default Photo 6 Caption": "",
+      "Default Photo 7": "",
+      "Default Photo 7 Caption": "",
+      "Default Photo 8": "",
+      "Default Photo 8 Caption": "",
+      "Default Photo 9": "",
+      "Default Photo 9 Caption": "",
+      "Default Photo 10": "",
+      "Default Photo 10 Caption": "",
+      "Last Modified": "09/14/2026 01:23:16"
+    }
+  ]
+}
